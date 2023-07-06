@@ -1,2 +1,5 @@
-# aio-templates
+# AIO-Templates
+
 All in one templates
+
+- [Svelte](./svelte/)

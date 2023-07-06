@@ -15,6 +15,10 @@ npm create svelte@latest my-app
 
 ## Templates
 
+Svelte+TS
+
+- [svelte web-components](./svelte-web-components/)
+
 Sveltekit+TS+ESLint+Prettier+Vitest
 
 - [sveltekit skeleton](./sveltekit-skeleton/)
