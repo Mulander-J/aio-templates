@@ -1,0 +1,1 @@
+export const sayHello = (who:string)=> `Hello ${who}`
