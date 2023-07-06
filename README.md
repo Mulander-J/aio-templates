@@ -2,4 +2,5 @@
 
 All in one templates
 
+- [Vue](./vue/)
 - [Svelte](./svelte/)
