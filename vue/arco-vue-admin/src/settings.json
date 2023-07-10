@@ -1,0 +1,14 @@
+{
+  "theme": "light",
+  "themeColor": "#165DFF",
+  "colorWeakness": false,
+  "multiTabs": true,
+  "isMobile": false,
+  "navbarHeight": 60,
+  "serverMenu": true,
+  "topMenu": false,
+  "sidebarWidth": 230,
+  "sidebarCollapsed": false,
+  "sidebarHidden": false,
+  "footer": true
+}
