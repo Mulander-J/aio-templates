@@ -26,4 +26,4 @@ Sveltekit+TS+ESLint+Prettier+Vitest
 
 - [sveltekit skeleton](./sveltekit-skeleton/)
 - [sveltekit lib](./sveltekit-lib/)
-- [sveltekit skeleton + unoc](./sveltekit-skeleton+uno/)
+- [sveltekit skeleton + unocss](./sveltekit-skeleton+uno/)
