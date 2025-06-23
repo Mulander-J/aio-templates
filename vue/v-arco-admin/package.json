@@ -1,5 +1,5 @@
 {
-  "name": "arco_vue_admin",
+  "name": "v-arco-admin",
   "version": "0.0.0",
   "packageManager": "pnpm@7.8.0",
   "description": "🚀A modern vue admin. It is based on vue3.x and TypeScript. It's so fast!",
