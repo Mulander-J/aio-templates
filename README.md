@@ -2,19 +2,24 @@
 
 All in one templates
 
-## [Nodejs](./nodejs/)
+## Nodejs
 
 - [Fastify Cola](./fastify-cola/) fastify+mongo+elastic+docker
 
-## [Vue](./vue/)
+## Vue
 
 - [Shadcn/vue](./vue/v-shadcn-tw@v3/) Shadcn/vue + TailwindCss@v3
+- [Nuxt-Shadcn](./vue/nuxt-shadcn/) Nuxt + Shadcn/vue + px2Rem(postCss)
 - [Electorn-starter](./vue/v-electron-tw@v4/) Electron + TailwindCss@v4 + px2Rem(postCss)
 - [vitesee-dapp](https://github.com/Mulander-J/vitesee-dapp)
 - Admin
   - [Arco Vue Admin](./vue/v-acro-admin) Vite+TS+Turbo+Docker+PWA+Vue3+Pinia+UnoCSS+ArcoDesign
 
-## [Svelte](./svelte/)
+## React
+
+- [Next-Shadcn](./react/next-shadcn/) Next + Shadcn
+
+## Svelte
 
 Svelte+TS
 
