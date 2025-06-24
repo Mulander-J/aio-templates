@@ -1,0 +1,1 @@
+export const SIGN_AS_LOGIN = false

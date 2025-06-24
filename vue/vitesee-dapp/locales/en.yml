@@ -1,0 +1,15 @@
+app:
+  shortTitle: VDNA🧬
+  title: Vitesee Decentralized Next Application
+  description: Vitesee-based DApp-scaffold with multiple presets to quickly get started with development and embrace the Vue community. 
+  keywords: TS, Vite, Vue3, VueUse, Arco-Design-Vue, Pinia, UnoCSS, Wagmi/Core, MetaMask, WalletConnect, Echart.
+stats:
+  framework:
+    title: Framework
+    intro: Vue3 Eco Firendly
+  component:
+    title: Component
+    intro: Swift Flexible Lightweight
+button:
+  back: Back
+  launch: '>.Start'

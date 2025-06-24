@@ -1,0 +1,15 @@
+app:
+  shortTitle: VDNA🧬
+  title: 用Vue.Vitesee构建下一代DApp
+  description: 基于Vitesee的包含多种预设的DApp项目脚手架，快速上手开发，拥抱Vue社区。 
+  keywords: TS, Vite, Vue3, VueUse, Arco-Design-Vue, Pinia, UnoCSS, Wagmi/Core, MetaMask, WalletConnect, Echart.
+stats:
+  framework:
+    title: 框架
+    intro: Vue3生态友好
+  component:
+    title: 组件
+    intro: 易用-灵活-轻量
+button:
+  back: 返回
+  launch: 开始使用
